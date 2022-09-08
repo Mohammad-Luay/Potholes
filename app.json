@@ -1,0 +1,5 @@
+{
+  "name": "Pothole_1",
+  "displayName": "Pothole_1",
+  "expo": {"plugins": ["expo-image-picker"] }
+}
